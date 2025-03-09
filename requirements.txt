@@ -1,0 +1,6 @@
+Flask
+easyocr
+torch
+numpy
+opencv-python
+gunicorn
