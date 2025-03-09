@@ -54,4 +54,4 @@ def extract_text():
         return jsonify({'error': 'Error processing the image. Ensure it is a clear image with text.'}), 500
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000, debug=True)
+    app.run()
